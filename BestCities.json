@@ -1,0 +1,12 @@
+{
+  "BestCities":
+  [
+    {"CityName":"Kabul","moreInfo":"Kabul is the Capital of Afghanistan","BestPlace":"Best place to visit in Kabul is Barbur Garden","ImageName":"https://raw.githubusercontent.com/s7shakib/JSONProjectsI/master/kabul.jpeg","BestHotal":"Best Hotal in Kabul is Serena Hotal" },
+    {"CityName":"Kandahar","moreInfo":"Kandahar is famous for grapes and pomegrantes","BestPlace":"Best place to Visit in Kandahar is Arghandab River","ImageName":"https://raw.githubusercontent.com/s7shakib/JSONProjectsI/master/kandahar%20.jpeg","BestHotal":"Best Hotal in Kandahar is Royal Afghan" },
+    {"CityName":"Bamyan","moreInfo":"Bamyan has a lot of historical places","BestPlace":"Best place to Visit in Bamyan is Band-e-Amir Park","ImageName":"https://raw.githubusercontent.com/s7shakib/JSONProjectsI/master/bamyan.webp","BestHotal":"Best Hotal in Bamyan is Silk Road Hotal" },
+    {"CityName":"Balkh","moreInfo":"Balkh is one of the diverse Province in Afghanistan","BestPlace":"Best place to Visit in Balkh is Mevlana Rumi","ImageName":"https://raw.githubusercontent.com/s7shakib/JSONProjectsI/master/balkh.jpeg","BestHotal":"Best Hotal in Balkh is Zarafshan Hotal" },
+    {"CityName":"Herat","moreInfo":"Herat is famous for its historical places ","BestPlace":"Best place to Visit in Herat is Central Blue Mosque","ImageName":"https://raw.githubusercontent.com/s7shakib/JSONProjectsI/master/herat.jpeg","BestHotal":"Best Hotal in Herat is Arg Hotal" }
+    
+  ],
+  "Status":"OK"
+}
